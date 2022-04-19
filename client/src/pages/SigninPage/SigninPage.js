@@ -31,9 +31,9 @@ require('dotenv').config();
 // These credentials are necessary and safe to be exposed to the client, as true backend is provided by Firebase
 firebase.initializeApp({
     // Firebase Console > Project Settings > Your project > Web API Key
-    apiKey: "AIzaSyABF8jDkXg_OvX2-AY-hxyxEw439RlrW2c",
+    apiKey: "AIzaSyCzm64_uz3vESpXIPdgcOeeSFouv-fT5Gw",
     // Firebase Console > Authentication > Authorized Domains
-    authDomain: "project-management-app-8ff66.firebaseapp.com"
+    authDomain: "project-issue-manager.firebaseapp.com"
 
 })
 

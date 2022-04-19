@@ -68,7 +68,7 @@ module.exports = {
       db.User.findById(req.params.id)
         .then(dbUser => dbUser.remove())
         .then(dbUser => res.json(dbUser))
-        .catch(err => res.status(422).json(err);
+        .catch(err => res.status(422).json(err));
     }
     */
   }

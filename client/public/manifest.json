@@ -1,6 +1,6 @@
 {
-  "short_name": "Project Management",
-  "name": "Project Issue Manager App",
+  "short_name": "Issue-O-Matic",
+  "name": "Project Issue Manager",
   "icons": [
     {
       "src": "bug_magnifier-128.png",
