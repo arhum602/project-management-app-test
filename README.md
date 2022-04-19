@@ -1,4 +1,4 @@
-# <a href="https://issue-manager.herokuapp.com">Issue-O-Matic</a> <img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-logo-horizontal.png/" alt="Issue-O-Matic logo" align="right" height="100"> <a name="top"></a>
+# <a href="https://issue-manager.herokuapp.com">Project-Manager</a> <img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-logo-horizontal.png/" alt="Project-Manager logo" align="right" height="100"> <a name="top"></a>
 
 ## Table of Contents <a name="toc"></a>
 
@@ -14,13 +14,13 @@
 
 ## Overview <a name="overview"></a>
 
-**_Issue-O-Matic_** is an open source project issue management software.
+**_Project-Manager_** is an open source project issue management software.
 
 It helps bootstrapping developers and SMB project teams acquire developer & customer feedback and track implementation progress through QA & UAT stages as well as post-production.
 
 ---
 
-## <p align="center"><img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-recording.gif" alt="issue-o-matic recording"> </p>
+## <p align="center"><img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-recording.gif" alt="Project-Manager recording"> </p>
 
 Primary benefits include:
 
@@ -49,7 +49,7 @@ After signup, set up your User Profile so your customers and coworkers know who 
 If you prefer to deploy this app to your own server, clone the repository as below.
 
 ```
-git clone https://github.com/danninemx/project-issue-manager.git
+git clone https://github.com/arhum602/project-management-app.git
 npm i     # or yarn
 npm start # or yarn run start
 ```
@@ -58,8 +58,6 @@ npm start # or yarn run start
 
 Using the Profile tabs, provide or update details about your organizations, projects, and specifications.
 
-<p align="center"><img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-project-profile-screenshot01.png" alt="issue-o-matic project profile"
-> </p>
 
 #### 3. Request issues or feedback from customers or coworkers
 
@@ -71,8 +69,7 @@ Share the deployed link with relevant parties and seek their feedback.
 
 Watch the Dashboard for notifications on new issues and updates.
 
-<p align="center"><img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-dashboard-screenshot01.png" alt="issue-o-matic dashboard"
-> </p>
+
 
 Then using the "Manage Issues" page:
 
@@ -80,8 +77,6 @@ Then using the "Manage Issues" page:
 2. Identify owner and implement solutions
 3. Close the issue on tracker
 
-<p align="center"><img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-manage-issue-screenshot01.png" alt="issue-o-matic manage issue"
-> </p>
 
 <p align='right'><a href='#top'><sup>[Back to Top]</sup></a></p>
 
@@ -95,8 +90,7 @@ Visit the site and click "REPORT AN ISSUE" to submit your feedback.
 
 You may do this anonymously, but signing up will allow you to track the status of your issues.
 
-<p align="center"><img src="https://github.com/danninemx/project-issue-manager/blob/master/client/src/images/issue-submit-issue-external-screenshot01.png" alt="issue-o-matic submit issue"
-> </p>
+
 
 #### 2. Review issue on site
 
@@ -148,8 +142,4 @@ If signed in, you will be notified of the developers' updates to your issues dur
 
 ---
 
-## Developer <a name="team"></a>
 
-- [Danny Kim](https://github.com/danninemx)
-
-<p align='right'><a href='#top'><sup>[Back to Top]</sup></a></p>
